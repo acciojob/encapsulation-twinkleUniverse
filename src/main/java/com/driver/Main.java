@@ -5,5 +5,6 @@ public class Main {
         RWOnly obj=new RWOnly();
         obj.setName("Twinkle");
         System.out.println(obj.getName());
+
     }
 }
